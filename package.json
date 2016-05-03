@@ -1,14 +1,26 @@
 {
   "name": "eslint-config-coffeeandcode",
   "version": "0.0.1",
-  "description": "",
+  "description": "Shared eslint configurations for Coffee and Code.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Coffee and Code <info@coffeeandcode.com>",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoffeeAndCode/eslint-config-coffeeandcode.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "bugs": {
+    "url": "https://github.com/CoffeeAndCode/eslint-config-coffeeandcode/issues"
+  },
+  "homepage": "https://github.com/CoffeeAndCode/eslint-config-coffeeandcode#readme",
   "dependencies": {
     "eslint": "^2.9.0"
-  }
+  },
+  "devDependencies": {}
 }
