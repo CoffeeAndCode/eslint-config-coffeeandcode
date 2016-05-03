@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-coffeeandcode",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Shared eslint configurations for Coffee and Code.",
   "main": "index.js",
   "scripts": {
