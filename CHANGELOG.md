@@ -5,6 +5,11 @@
 - nothing so far
 
 
+### 0.1.0 (July 1, 2016)
+
+- bump eslint dependency to latest (3.0.0)
+
+
 ### 0.0.3 (June 26, 2016)
 
 - allow all console.log statements in node configs
