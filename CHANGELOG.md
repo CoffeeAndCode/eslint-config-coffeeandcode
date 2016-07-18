@@ -5,6 +5,12 @@
 - nothing so far
 
 
+### 0.2.0 (July 18, 2016)
+
+- bump eslint dependency to latest (3.1.0)
+- add `object-curly-spacing` rule for all configs
+
+
 ### 0.1.0 (July 1, 2016)
 
 - bump eslint dependency to latest (3.0.0)
